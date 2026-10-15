@@ -1,0 +1,6 @@
+{
+  "name": "KodStudio - Web & Code Playground",
+  "description": "Professional web code studio, interactive developer toolkit, component library, and instant source code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
